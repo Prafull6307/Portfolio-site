@@ -7,6 +7,6 @@ export default defineConfig({
   plugins: [react()],
  base:"/Portfolio-site/",
  build:{
-  outDir:"./docs",
+  outDir:".docs",
  }
 });
